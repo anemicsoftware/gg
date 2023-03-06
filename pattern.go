@@ -4,7 +4,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/golang/freetype/raster"
+	"github.com/anemicsoftware/freetype/raster"
 )
 
 type RepeatOp int
